@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que msotra os jogos da copa de
+O Calendário da Copa é um projeto que mostra os jogos da copa de
 
 ## 🔖 Layout
 
